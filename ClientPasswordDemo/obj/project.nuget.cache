@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "O9H2gx3TptJt7DivbFSEgtLZAH/cITkskuphVy2USsBX/4bvjizJ+fsmEWXwvx1W17YbbU1KxfVaPZ62VBT9FQ==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\Test2021\\IdentityServer4Demo\\ClientPasswordDemo\\ClientPasswordDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taoyq\\.nuget\\packages\\identitymodel\\4.4.0\\identitymodel.4.4.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\taoyq\\.nuget\\packages\\system.text.encodings.web\\4.7.0\\system.text.encodings.web.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
